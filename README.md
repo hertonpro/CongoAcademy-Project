@@ -1,6 +1,6 @@
 # CongoAcademy-Project\
 
-Téléchargez les fichiers sur votre serveur Apache/Php mysql
+Téléchargez les fichiers sur votre serveur Apache/Php  mysql
 
 Ouvrez le fichier de base de données qui se trouve dans conf / database.php
 
