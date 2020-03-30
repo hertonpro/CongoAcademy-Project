@@ -1,7 +1,7 @@
 # CongoAcademy-Project\
 
-Téléchargez les fichiers sur votre serveur Apache/Php mysql
-
+Téléchargez les fichiers sur votre serveur Apache/Php  mysql
+f
 Ouvrez le fichier de base de données qui se trouve dans conf / database.php
 
 mettez à jour vos informations d'identification dans ce fichier, puis créez votre base de données manuellement
